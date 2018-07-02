@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  FBullCowGame.cpp
+  Generating Code...
+c:\users\jason\source\repos\section_02\bullcowgame\fbullcowgame.cpp(123): warning C4715: 'FBullCowGame::IsLowercase': not all control paths return a value
+  BullCowGame.vcxproj -> C:\Users\Jason\source\repos\Section_02\Debug\BullCowGame.exe
